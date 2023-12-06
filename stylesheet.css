@@ -1,0 +1,176 @@
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 100 ;
+}
+
+.divider {
+  position: relative;
+  width: min(1000px, 100em);
+  min-height: 20%;
+  border: 5px solid #365682;
+  padding: 10px;
+  margin: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: gainsboro;
+
+}
+
+.abstract{
+  text-align: left;
+  margin-right: 50%;
+  
+}
+
+.introduction{
+
+  text-align: left;
+  float: right;
+  left: 30px;
+  
+}
+
+.table-of-contents{
+  float: left;
+  border: 3px solid #365682;
+  padding: 15px;
+  margin: 15px;
+  margin-right: 25px;
+  background-color: gainsboro;
+
+}
+.performance-enhancement{
+
+  text-align: left;
+  margin-left: 40%;
+  left: 30px;
+}
+
+.ethical-considerations{
+  float : right;
+  
+  
+}
+
+
+.tec_sports {
+  float: right;
+  width: min(500px, 100em);
+  min-height: 30%;
+  margin-top: 170px;
+  margin-left: 1px;
+}
+
+.tec_sports img{
+  margin-left: 1px;
+}
+
+
+img{
+  position: center;
+  height: 100%;
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: gainsboro;
+}
+
+.divider2{
+  height:90%;
+  width:90%;
+  border: 3px solid #365682;
+  padding: 10px;
+  margin: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.window{
+  border-top: 3px solid #365682;
+  size: 90%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+  color: #333;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 10px 0;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+h3 {
+  font-size: 18px;
+  margin: 10px 0;
+  text-decoration: underline
+}
+
+p {
+  margin: 10px 0;
+}
+
+
+
+.imagebox{
+  margin: 0px;
+  text-align: left;
+  margin-left: 50%;
+  
+
+}
+
+.foot{
+  height: 25%;
+  width: 40%;
+  margin-right: 100px;
+}
+.techfoot{
+  height: 50%;
+  width: 50%;
+  margin-left: 100px ;
+  
+
+}
+
+.Resources{
+  border: 3px solid black;
+  padding: 1px;
+  margin: 1px;
+  display: block;
+  background-color: gainsboro;
+
+
+}
+
+*{box-sizing:border-box;}
